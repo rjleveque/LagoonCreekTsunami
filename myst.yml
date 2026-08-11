@@ -1,0 +1,20 @@
+version: 1
+project:
+  title: LagoonCreekTsunami
+  authors:
+    - name: CRESCENT TSHA SIG and Cascadia CoPes Hub
+  copyright: '2026'
+  github: rjleveque/LagoonCreekTsunami
+
+  toc:
+    - file: intro.md
+    - title: Source files (dtopo)
+      children:
+        - file: dtopo/CopesHubSources.md
+
+site:
+  options:
+    logo: images/cropped-Transparent-Hub-Logo.png
+    favicon: images/cropped-Hub-Logo-no-words-1-32x32.png
+    folders: true
+  template: book-theme
