@@ -14,10 +14,11 @@ project:
     - title: Topography files
       children:
         - file:  topo/LagoonCreekTopo.md   
+    - title: Sample Results
+      children:
+        - file:  sample_results/results_BL13M.md
 
 site:
   options:
-    logo: images/cropped-Transparent-Hub-Logo.png
-    favicon: images/cropped-Hub-Logo-no-words-1-32x32.png
     folders: true
   template: book-theme
