@@ -25,7 +25,7 @@ See [this page](https://depts.washington.edu/ptha/CopesHubTsunamis/LagoonCreek/d
 ### To download topography data for the sample problem:
 
 
-See [this page](https://depts.washington.edu/ptha/CopesHubTsunamis/LagoonCreek/dtopo/lagooncreektopo/).
+See [this page](https://depts.washington.edu/ptha/CopesHubTsunamis/LagoonCreek/topo/lagooncreektopo/).
 
 
 
