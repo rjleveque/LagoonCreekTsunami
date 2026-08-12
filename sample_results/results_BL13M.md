@@ -13,7 +13,8 @@ earlier for the "instant" version where the total deformation happens at time
 ## Zip file of sample gauge output
 
 Download this zip file of the time series if you want to plot them together
-with your own results.
+with your own results.  The zip file contains a README.txt file with more
+information about formatting.
 
 https://depts.washington.edu/ptha/CopesHubTsunamis/LagoonCreek/files/GaugeResults_BL13M.zip
 
