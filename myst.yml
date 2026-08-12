@@ -11,6 +11,9 @@ project:
     - title: Source files (dtopo)
       children:
         - file: dtopo/CopesHubSources.md
+    - title: Topography files
+      children:
+        - file:  topo/LagoonCreekTopo.md   
 
 site:
   options:
