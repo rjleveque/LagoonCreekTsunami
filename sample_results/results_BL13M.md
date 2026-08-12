@@ -5,10 +5,20 @@ The plots below show the gauge output for the 5 synthetic gauges, for
 the event `BL13M`, for both the kinematic (KinOkada) and static (Okada for the
 final deformation) ruptures.
 
-
 Note that the results are very similar except for the timing: waves arrive
 earlier for the "instant" version where the total deformation happens at time
 1 second.
+
+## Gauge locations
+
+If you want to put synthetic gauges at the same locations as shown in the
+plots below for comparison, the coordinates are found in
+[](#gauge_locations) and that page also shows Google Earth
+images with their locations.
+
+
+
+
 
 ## Zip file of sample gauge output
 

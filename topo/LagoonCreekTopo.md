@@ -58,3 +58,23 @@ the location of 3 onshore gauges #1, 2, 3.
 :::
 
 Sample gauge output for one event are shown in [](#results_BL13M).
+
+## Gauge locations
+
+If you want to put synthetic gauges at the same locations as shown in the
+plots below for comparison, the coordinates are:
+
+:::{table} Gauge locations
+:label: gauge_locations
+:align: center
+
+| Gauge | longitude | latitude | location |
+| --- | --- | --- | --- |
+| 1 | -124.102 | 41.596 | on beach |
+| 2 | -124.098 | 41.525 | in lake |
+| 3 | -124.0954 | 41.5891 | farther inland |
+| 40 | -124.2 | 41.6 | offshore, $\approx$ 40 m depth |
+| 100 | -124.38 | 41.59 | offshore, $\approx$ 100 m depth |
+
+:::
+
