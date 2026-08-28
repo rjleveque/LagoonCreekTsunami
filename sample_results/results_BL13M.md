@@ -18,8 +18,6 @@ images with their locations.
 
 
 
-
-
 ## Zip file of sample gauge output
 
 Download this zip file of the time series if you want to plot them together
@@ -27,6 +25,14 @@ with your own results.  The zip file contains a README.txt file with more
 information about formatting.
 
 https://depts.washington.edu/ptha/CopesHubTsunamis/LagoonCreek/files/GaugeResults_BL13M.zip
+
+**TODO: Modify zipfile** To also include csv file versions for each gauge in the
+format needed for the web tool.
+
+## Web tool for comparing results
+
+**TODO: Add instructions** for using this page once it's fully functional:
+https://det.cascadiaquakes.org/?benchmark_id=TSHA-BP1#
 
 
 ## Sample plots
@@ -62,7 +68,7 @@ The animations below were made using GeoClaw and may be useful for
 comparing against your results.
 (To bring up the Loop Controls, click the middle mouse button or 2-finger click.)
 
-:::{dropdown} BL13D generation and propagation in Ocean
+:::{dropdown} BL13M generation and propagation in Ocean
 :close:
 ```{figure} ../geoclaw_run/BL13M_fgout01_animation.mp4
 :width: 600px
@@ -70,7 +76,7 @@ comparing against your results.
 ```
 :::
 
-:::{dropdown} BL13D_instant generation and propagation in Ocean
+:::{dropdown} BL13M_instant generation and propagation in Ocean
 :close:
 ```{figure} ../geoclaw_run/BL13M_instant_fgout01_animation.mp4
 :width: 600px
@@ -78,7 +84,7 @@ comparing against your results.
 ```
 :::
 
-:::{dropdown} BL13D inundation of Lagoon Creek
+:::{dropdown} BL13M inundation of Lagoon Creek
 :close:
 ```{figure} ../geoclaw_run/BL13M_fgout02_animation.mp4
 :width: 600px
@@ -86,7 +92,7 @@ comparing against your results.
 ```
 :::
 
-:::{dropdown} BL13D_instant inundation of Lagoon Creek
+:::{dropdown} BL13M_instant inundation of Lagoon Creek
 :close:
 ```{figure} ../geoclaw_run/BL13M_instant_fgout02_animation.mp4
 :width: 600px

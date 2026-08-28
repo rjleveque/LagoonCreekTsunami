@@ -5,6 +5,9 @@ All 36 KinOkada sources can be found in this zip file:
 
 https://depts.washington.edu/ptha/CopesHubTsunamis/dtopo/CSZ_groundmotions/dtopofiles_nc.zip
 
+**TODO: Replace this link** by DesignSafe link and instructions, once USGS review is
+complete.
+
 The nc files have been compressed so the whole zip file is about 1GB, and it
 unzips to a directory `dtopofiles_nc` with roughly the same size containing 
 36 netCDF files with names like `BL10D.nc`. See [this
@@ -24,10 +27,14 @@ If you want to specify an instantaneous rupture at some time (e.g. 1 second)
 with the entire vertical deformation, `dz` from the last time in the .nc
 file is the final static deformation. 
 
-The Jupyter notebook `dtopo/LoadSampleSource.ipynb` illustrates how to read a
+The Jupyter notebook `dtopo/LoadSampleSource.ipynb` (found in the
+[dtopo directory of the github
+repository](https://github.com/rjleveque/LagoonCreekTsunami/tree/main/dtopo)
+illustrates how to read a
 netCDF file and could be adapted to write it back out in whatever format
 your software requires.  Here is a
-[rendered version of the notebook](LoadSampleSource.html).
+[rendered version of the notebook](LoadSampleSource.html) that includes
+some plots.
 
 
 
