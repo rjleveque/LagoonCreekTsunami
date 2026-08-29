@@ -76,7 +76,9 @@ The format below is recommended.
     # Anything else you think is relevant, e.g. resolution used (optional)
 
 Then there should be a line
+
     t depth surf
+    
 followed by a line for each time in the time series with values
 time, water depth, and surface elevation of the water (or of the land if dry).
 
