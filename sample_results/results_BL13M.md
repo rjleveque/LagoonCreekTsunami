@@ -16,7 +16,15 @@ plots below for comparison, the coordinates are found in
 [](#gauge_locations) and that page also shows Google Earth
 images with their locations.
 
+:::{warning}
+This test problem is still under development, and in particular we are
+hoping to obtain some better topography for the Lagoon Creek region, in
+which case the sample results presented here will change.
 
+We plan to finalize this test problem before the webinar on September 4, 2026.
+Before then, you are welcome to use this data but be aware that things may
+change.
+:::
 
 ## Zip file of sample gauge output
 
@@ -31,11 +39,14 @@ format needed for the web tool.
 
 ## Web tool for comparing results
 
-**TODO: Add instructions** for using this page once it's fully functional:
-https://det.cascadiaquakes.org/?benchmark_id=TSHA-BP1#
+
+See [](#webtool) for instructions on using this tool to compare your results
+with others.
 
 
 ## Sample plots
+
+**These plots are out of date.**
 
 ### Water depth
 The first set of plots shows the water depth at each gauge. Note that

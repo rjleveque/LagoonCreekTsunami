@@ -1,6 +1,20 @@
 (LagoonCreekTopo)=
 # Lagoon Creek Topography files
 
+:::{warning}
+This test problem is still under development, and in particular we are
+hoping to obtain some better topography for the Lagoon Creek region, in
+which case the sample results presented here will change.
+
+We plan to finalize this test problem before the webinar on September 4, 2026.
+Before then, you are welcome to use this data but be aware that things may
+change.
+:::
+
+## zip file with files needed to run the test problem
+
+**This zip file was updated 8/29/26.**
+
 The zip file found at:
 
 https://depts.washington.edu/ptha/CopesHubTsunamis/LagoonCreek/files/LagoonCreek_topofiles.zip
@@ -24,8 +38,9 @@ Source: https://www.ngdc.noaa.gov/thredds/dodsC/global/ETOPO2022/30s/30s_bed_ele
 
 1" data from Coastal Relief Model Volume 7, with 
 `extent = [-124.3, -124., 41.5, 41.8]` \
-Source: https://www.ngdc.noaa.gov/thredds/dodsC/crm/crm_vol7.nc
+Source: https://www.ngdc.noaa.gov/thredds/dodsC/crm/cudem/crm_vol7_2025.nc
 
+**Updated 8/29/26 to use the new 2025 version of CRM volume 7.**
 
 ###  `LagoonCreek13s.asc`
 
@@ -34,11 +49,10 @@ Source: https://www.ngdc.noaa.gov/thredds/dodsC/crm/crm_vol7.nc
 Vertical datum: MHW \
 Source: https://www.ngdc.noaa.gov/thredds/dodsC/regional/crescent_city_13_mhw_2010.nc
 
+## Jupyter notebook used to construct this data
 
-## To do: 
-
-- Add Jupyter notebook that downloads / crops these files.
-- Determine if there is better fine grid topo or lidar available.
+The notebook is in the github repository, in `topo/LagoonCreekTopo.ipynb`.
+Here is a [rendered version](LagoonCreekTopo.html).
 
 ## Topography extents and gauge locations
 
@@ -71,7 +85,7 @@ plots below for comparison, the coordinates are:
 | Gauge | longitude | latitude | location |
 | --- | --- | --- | --- |
 | 1 | -124.102 | 41.596 | on beach |
-| 2 | -124.098 | 41.525 | in lake |
+| 2 | -124.098 | 41.5925 | in lake |
 | 3 | -124.0954 | 41.5891 | farther inland |
 | 40 | -124.2 | 41.6 | offshore, $\approx$ 40 m depth |
 | 100 | -124.38 | 41.59 | offshore, $\approx$ 100 m depth |

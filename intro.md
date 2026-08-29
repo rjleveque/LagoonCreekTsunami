@@ -4,6 +4,17 @@
 This test problem is being developed for a workshop sponsored by the
 [CRESCENT Tsunami Sources for Hazards Assessment SIG](https://cascadiaquakes.org/science/tsunami-sources-for-hazard-assessment/) in September, 2026.
 
+:::{warning}
+This test problem is still under development, and in particular we are
+hoping to obtain some better topography for the Lagoon Creek region, in
+which case the sample results presented here will change.
+
+We plan to finalize this test problem before the webinar on September 4, 2026.
+Before then, you are welcome to use this data but be aware that things may
+change.
+:::
+
+
 :::{seealso}
 - The hamburger menu at the top left if the TOC is not showing up on the
   left side of this page,

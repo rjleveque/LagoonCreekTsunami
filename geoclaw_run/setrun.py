@@ -484,7 +484,7 @@ def setrun(claw_pkg='geoclaw'):
     # Region 1" 
     flagregion = FlagRegion(num_dim=2)
     flagregion.name = 'Region_1sec'
-    flagregion.minlevel = 4
+    flagregion.minlevel = 5
     flagregion.maxlevel = 5
     flagregion.t1 = 0.
     flagregion.t2 = 1e9
@@ -495,7 +495,7 @@ def setrun(claw_pkg='geoclaw'):
     # Region 1/3"
     flagregion = FlagRegion(num_dim=2)
     flagregion.name = 'Region_onethird'
-    flagregion.minlevel = 4
+    flagregion.minlevel = 6
     flagregion.maxlevel = 6
     flagregion.t1 = 0.
     flagregion.t2 = 1e9

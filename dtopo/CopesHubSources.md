@@ -1,17 +1,19 @@
 (CopesHubSources)=
 # Copes Hub Sources
 
-All 36 KinOkada sources can be found in this zip file:
+All 36 KinOkada sources that are described on
+the page [Cascadia CoPes Hub Ground Motions and
+Tsunami Sources](https://depts.washington.edu/ptha/CHTuser/docs/seismic-and-tsunami-sources/)
+can be found on this DesignSafe website:
 
-https://depts.washington.edu/ptha/CopesHubTsunamis/dtopo/CSZ_groundmotions/dtopofiles_nc.zip
-
-**TODO: Replace this link** by DesignSafe link and instructions, once USGS review is
-complete.
+**TODO: Add this link, and instructions, once the USGS review is
+complete. (We hope before 9/4/26.)
 
 The nc files have been compressed so the whole zip file is about 1GB, and it
 unzips to a directory `dtopofiles_nc` with roughly the same size containing 
-36 netCDF files with names like `BL10D.nc`. See [this
-page](https://depts.washington.edu/ptha/CHTuser/docs/seismic-and-tsunami-sources/)
+36 netCDF files with names like `BL10D.nc`. 
+See [Cascadia CoPes Hub Ground Motions and Tsunami
+Sources](https://depts.washington.edu/ptha/CHTuser/docs/seismic-and-tsunami-sources/)
 for more description of these sources, and the naming convention used for
 the 36 events in the logic tree.
 
