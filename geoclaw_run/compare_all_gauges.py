@@ -2,25 +2,24 @@ from pylab import *
 from clawpack.pyclaw.gauges import GaugeSolution
 
 event = 'BL13M'
-#outdirs = '/Users/rjl/scratch/CHTuser/sites/LagoonCreek/multirun/geoclaw_outputs/'
+
 outdir1 = f'_output_{event}'
 label1 = f'{event} - KinOkada'
+
 outdir2 = f'_output_{event}_instant'
 label2 = f'{event} - Okada instant'
-
-#outdir2 = f'_output_{event}_seismic'
-#label2 = f'{event} - Seismic kinematic'
 
 if 0:
     qoi = 'Surface elevation'
     iqoi = -1
+    fname_png = f'compare_{event}_eta.png'
 else:
     qoi = 'Water depth'
     iqoi = 0
+    fname_png = f'compare_{event}_depth.png'
 
 fig,axs = subplots(5,1,figsize=(10,9), sharex=True)
 
-#clf()
 for kax,gaugeno in enumerate([100, 40, 1, 2, 3]):
 
     ax = axs[kax]
@@ -44,3 +43,7 @@ axs[0].set_title(f'Gauge {gaugeno} comparison of {qoi}')
 axs[-1].set_xlim(0,60)
 axs[-1].set_xlabel('Minutes after earthquake')
 tight_layout()
+
+if 1:
+    savefig(fname_png, bbox_inches='tight')
+    print('Created ', fname_png)

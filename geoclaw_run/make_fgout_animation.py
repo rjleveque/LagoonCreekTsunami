@@ -31,10 +31,10 @@ from datetime import timedelta
 
 from clawpack.geoclaw import fgout_tools
 
-event = 'BL13M'
+event = 'BL13M_instant'
 outdir = f'_output_{event}'
 
-fgno = 2  # which fgout grid
+fgno = 2  # which fgout grid (1 covers ocean, 2 zooms on Lagoon Creek)
 
 if fgno==1:
     climits = (-2,2)

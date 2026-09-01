@@ -2,13 +2,18 @@
 # Lagoon Creek Topography files
 
 :::{warning}
-This test problem is still under development, and in particular we are
-hoping to obtain some better topography for the Lagoon Creek region, in
-which case the sample results presented here will change.
+The topography for this test problem has been finalized for the webinar
+and workshop in September, 2026.
 
-We plan to finalize this test problem before the webinar on September 4, 2026.
-Before then, you are welcome to use this data but be aware that things may
-change.
+But note that the 1/3 arcsecond topo used near Lagoon Creek dates from
+2010 and a newer version is currently under development by NCEI, which
+should be available soon.  The newer topography differs
+from the 2010 version around Lagoon Creek.
+
+It is also worth noting that present-day topography may not be
+suitable if you plan to do modeling with a tsunami source that might
+be a good model for the 1700 event, to compare to the paleo data,
+since the topography may have changed dramatically since then.  
 :::
 
 ## zip file with files needed to run the test problem
@@ -71,7 +76,7 @@ the location of 3 onshore gauges #1, 2, 3.
 :width: 500
 :::
 
-Sample gauge output for one event are shown in [](#results_BL13M).
+Sample gauge output for one event are shown in [](#sample_results_BL13M).
 
 ## Gauge locations
 

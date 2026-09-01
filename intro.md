@@ -4,15 +4,13 @@
 This test problem is being developed for a workshop sponsored by the
 [CRESCENT Tsunami Sources for Hazards Assessment SIG](https://cascadiaquakes.org/science/tsunami-sources-for-hazard-assessment/) in September, 2026.
 
-:::{warning}
-This test problem is still under development, and in particular we are
-hoping to obtain some better topography for the Lagoon Creek region, in
-which case the sample results presented here will change.
+These pages were generated using [Jupyter
+book](https://jupyterbook.org/stable).
+The myst markdown files and Jupyter notebooks
+used to generate them,  along with the GeoClaw code used to generate
+the [](#sample_results_BL13M), can be found in this Github repository:
+https://github.com/rjleveque/LagoonCreekTsunami
 
-We plan to finalize this test problem before the webinar on September 4, 2026.
-Before then, you are welcome to use this data but be aware that things may
-change.
-:::
 
 
 :::{seealso}
@@ -22,7 +20,8 @@ change.
   for the webinar (on 9/4/26), office hours (9/11/26), and/or workshop (9/18/26).
 :::
 
-The primary goal is for participants to experiment with downloading and
+The primary goal of this workshop
+is for participants to experiment with downloading and
 using a set of 36 tsunami sources developed by researchers supported by the
 [Cascadia CoPes Hub](https://cascadiacopeshub.org/), which are described on
 [this page](https://depts.washington.edu/ptha/CHTuser/docs/seismic-and-tsunami-sources/)
@@ -41,13 +40,13 @@ Cascadia Paleoseismology Working Group,
 We hope this workshop will also encourage modelers to study the tsunami impacts
 in this region more detail. 
 
-These pages and additional sample code can be found in the Github repository
-[LagoonCreekTsunami](https://github.com/rjleveque/LagoonCreekTsunami).
 
 For more information, see these pages:
   - [](#CopesHubSources), with instructions for downloading the sources,
   - [](#LagoonCreekTopo), with instructions for downloading topo DEMs,
-  - [](#results_BL13M), some sample results for one event for comparison.
+  - [](#sample_results_BL13M), some sample results for one event for comparison.
+  - [LagoonCreekTsunami](https://github.com/rjleveque/LagoonCreekTsunami),
+    the Github repository.
 
 
 

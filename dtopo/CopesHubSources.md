@@ -6,8 +6,10 @@ the page [Cascadia CoPes Hub Ground Motions and
 Tsunami Sources](https://depts.washington.edu/ptha/CHTuser/docs/seismic-and-tsunami-sources/)
 can be found on this DesignSafe website:
 
-**TODO: Add this link, and instructions, once the USGS review is
-complete. (We hope before 9/4/26.)
+https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published/PRJ-6459
+
+**NOTE:** This dataset may not be published yet, pending USGS review.
+We hope it will be before 9/4/26.
 
 The nc files have been compressed so the whole zip file is about 1GB, and it
 unzips to a directory `dtopofiles_nc` with roughly the same size containing 
