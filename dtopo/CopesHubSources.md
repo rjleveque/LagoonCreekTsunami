@@ -1,5 +1,5 @@
 (CopesHubSources)=
-# Copes Hub Sources
+# Cascadia CoPes Hub Sources
 
 All 36 KinOkada sources that are described on
 the page [Cascadia CoPes Hub Ground Motions and

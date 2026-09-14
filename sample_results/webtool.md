@@ -5,10 +5,16 @@
 [This webpage](https://det.cascadiaquakes.org/?benchmark_id=TSHA-BP1#)
 provides a tool for comparing your computed results with results obtained
 by others.
+Doing so is not required, but may be useful, and we would also like to gather
+feedback on the use of this tool.
 
 :::{note}
-Still under development and may change before the workshop.  This tool
-is being developed by the CRESCENT software engineers and the
+So far comparison results have been uploaded only for one of the 36
+[](#CopesHubSources) (but for both the kinematic and instant versions). These
+are the results that are shown on [](#sample_results_BL13M).
+
+This website is still under development and may change before the workshop.
+This tool is being developed by the CRESCENT software engineers and the
 [Dynamic Rupture, Earthquake Cycle, and Tsunamis Working Group](https://cascadiaquakes.org/det/).
 
 Note that some of the terminology (e.g. "receiver") was developed for

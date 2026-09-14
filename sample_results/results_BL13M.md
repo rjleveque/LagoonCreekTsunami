@@ -49,7 +49,8 @@ to get feedback on how well it works.
 
 The plots and animations below were computed using the GeoClaw software
 (version 5.14.0) with the setup archived in the github repository
-in the directory [LagoonCreekTsunamis/geoclaw_run](
+in the directory
+[LagoonCreekTsunamis/geoclaw_run](https://github.com/rjleveque/LagoonCreekTsunami/tree/main/geoclaw_run)
 
 ### Water depth
 The first set of plots shows the **water depth** at each gauge. Note that

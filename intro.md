@@ -23,7 +23,12 @@ https://github.com/rjleveque/LagoonCreekTsunami
 The primary goal of this workshop
 is for participants to experiment with downloading and
 using a set of 36 tsunami sources developed by researchers supported by the
-[Cascadia CoPes Hub](https://cascadiacopeshub.org/), which are described on
+[Cascadia CoPes Hub](https://cascadiacopeshub.org/) as part of
+[Team 1](https://cascadiacopeshub.org/team-1/). 
+These sources were developed specifically for tsunami modeling to
+complement a set of seismic simulations for very similar sources, and may be
+particularly useful for multi-hazard modeling of earthquakes and tsunamis.
+These sources and the seismic versions are described on
 [this page](https://depts.washington.edu/ptha/CHTuser/docs/seismic-and-tsunami-sources/)
 
 **You are welcome to try using these sources on any modeling problem you choose,
