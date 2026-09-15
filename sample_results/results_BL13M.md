@@ -23,7 +23,7 @@ images with their locations.
 Download this zip file of the time series if you want to plot them together
 with your own results.
 
-https://depts.washington.edu/ptha/CopesHubTsunamis/LagoonCreek/files/LeVeque_v4.zip
+[LeVeque_v4.zip](https://depts.washington.edu/ptha/CopesHubTsunamis/LagoonCreek/files/LeVeque_v4.zip)
 
 The files included in this zip file are in the format needed for comparing
 results on the webtool described in the next section, and consist of a header
