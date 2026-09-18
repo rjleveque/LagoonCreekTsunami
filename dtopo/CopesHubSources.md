@@ -8,7 +8,13 @@ can be found on this DesignSafe website:
 
 https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published/PRJ-6459
 
-The nc files have been compressed so the whole zip file is about 1GB, and it
+Plots of the slip and seafloor deformation for each of the 36 sources can
+be found in the Powerpoint slides included in the data distribution.
+The pdf version can also be viewed
+[here](https://depts.washington.edu/ptha/CopesHubTsunamis/LagoonCreek/files/copes_megathrust_scenarios_tsunami_sources.pdf).
+
+
+The netCDF files have been compressed so the whole zip file is about 1GB, and it
 unzips to a directory `dtopofiles_nc` with roughly the same size containing 
 36 netCDF files with names like `BL10D.nc`. 
 See [Cascadia CoPes Hub Ground Motions and Tsunami

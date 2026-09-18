@@ -14,3 +14,9 @@ rsync -avz copes_megathrust_scenarios_tsunami_sources.pdf \
 rsync -avz README_tsunami_sources.pdf \
     ptha@homer.u.washington.edu:public_html/CopesHubTsunamis/LagoonCreek/files/
 
+rsync -avz gauge_plots \
+    ptha@homer.u.washington.edu:public_html/CopesHubTsunamis/LagoonCreek/files/
+
+rsync -avz fgmax_plots \
+    ptha@homer.u.washington.edu:public_html/CopesHubTsunamis/LagoonCreek/files/
+

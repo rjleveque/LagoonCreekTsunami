@@ -6,6 +6,12 @@ in the github repository in the directory
 [LagoonCreekTsunamis/geoclaw_multirun](https://github.com/rjleveque/LagoonCreekTsunami/tree/main/geoclaw_multirun).
 This page contains a few preliminary results, to be improved in the future.
 
+## Gauge plots
+
+Gauge plots similar to those shown for [](#sample_results_BL13M)
+can be found at
+[gauge_plots](https://depts.washington.edu/ptha/CopesHubTsunamis/LagoonCreek/files/gauge_plots/index.html)
+
 ## Zip file of gauge output
 
 This zip file contains the time series at each of the 5 gauges for all of
@@ -100,3 +106,11 @@ computed, see
 [HazardCurveDemo](../geoclaw_multirun/HazardCurveDemo_260917.html),
 rendered from the notebook `geoclaw_multirun/HazardCurveDemo.ipynb`
 in the repository.
+
+## Extent of inundation and maximum depth
+
+The maximum water depth at each grid point on a 1/3" grid covering the study
+area was computed over the 45 minute GeoClaw run performed for each source.
+Plots of these can be found at:
+[fgmax_plots](https://depts.washington.edu/ptha/CopesHubTsunamis/LagoonCreek/files/fgmax_plots/index.html)
+
