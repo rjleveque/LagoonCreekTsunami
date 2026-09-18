@@ -37,5 +37,8 @@ your software requires.  Here is a
 [rendered version of the notebook](LoadSampleSource.html) that includes
 some plots.
 
-
+Plots of the slip and seafloor deformation for each of the 36 sources can
+be found in the Powerpoint slides included in the data distribution.
+The pdf version can also be viewed
+[here](https://depts.washington.edu/ptha/CopesHubTsunamis/LagoonCreek/files/copes_megathrust_scenarios_tsunami_sources.pdf).
 

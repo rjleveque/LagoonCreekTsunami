@@ -63,6 +63,10 @@ A few things to note:
 - BR16M and BR16D have little flooding at Gauge 1 and none at Gauges 2 and 3.
   These events have uplift in this region.
 
+Plots of the slip and seafloor deformation for each of the 36 sources can
+be found in the Powerpoint slides included in the data distribution.
+The pdf version can also be viewed
+[here](https://depts.washington.edu/ptha/CopesHubTsunamis/LagoonCreek/files/copes_megathrust_scenarios_tsunami_sources.pdf).
 
 The plots shown above were computed with the Jupyter notebook
 `geoclaw_multirun/CompareGaugeMaxima.ipynb`
